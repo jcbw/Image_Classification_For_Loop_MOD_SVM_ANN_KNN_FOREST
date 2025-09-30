@@ -11,8 +11,6 @@ https://github.com/jcbw/ImageClipping_Vectorization
 
 https://github.com/jcbw/Clip_IMG_byMask_Forloop
 
-https://github.com/jcbw/Geometric_image_classification_substructure_Hornsund_Fjord
-
 After this notebook in the sequence, there is the geometric reclass notebook that follows here:
 
 https://github.com/jcbw/Geometric_image_classification_substructure_Hornsund_Fjord
